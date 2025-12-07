@@ -33,7 +33,7 @@ A 16-year-old programmer who loves system programming and backend web developmen
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dami&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4" height="160" />
+  <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=dev-dami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-dami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4" height="160" />
+  <img src="https://git-streak.0xarchit.is-a.dev/?user=dev-dami&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
 </div>
