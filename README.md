@@ -24,7 +24,7 @@ A 17-year-old programmer who loves system programming and backend web developmen
 
 **Frontend:** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
-**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,elysia" />
 
 **Tools:** <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
 
