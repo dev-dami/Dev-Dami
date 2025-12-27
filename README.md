@@ -30,10 +30,10 @@ A 17-year-old programmer passionate about **system programming** and **backend w
 ## Tech Stack
 
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=c,go,rust,python" />
+<img src="https://skillicons.dev/icons?i=c,go,rust,python,javascript,typescript" />
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 **Backend:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,elysia" />
