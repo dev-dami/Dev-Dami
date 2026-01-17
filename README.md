@@ -1,62 +1,39 @@
-# Hey, I'm Damilare
+# Hi, I'm Damilare 👋
 
-A 17-year-old programmer passionate about **system programming** and **backend web development**. I love building efficient, scalable systems and exploring new technologies.
+I'm a 17-year-old programmer from Nigeria who gets excited about making computers do exactly what I want them to do—whether that's building lightning-fast backend services or diving deep into how operating systems work under the hood.
 
----
+## What I'm working on right now
 
-## About Me
+I'm on a mission to master system-level programming, which means spending a lot of time with Rust and Go. There's something fascinating about working close to the metal and understanding how things actually work at the lowest levels. When I'm not exploring memory management and concurrency patterns, I'm building backend APIs with FastAPI, Node.js, and Elysia—the kind of infrastructure that needs to handle real-world scale and complexity.
 
-- 💻 Currently learning **advanced Rust** and **Go** for system-level programming.  
-- 🌐 Enjoy building **APIs and backend services** using FastAPI, Node.js, and Elysia.  
-- 🧩 Love solving **algorithmic problems** and sharpening my skills on LeetCode and Kaggle.  
-- 📚 Always exploring **new tools, frameworks, and cloud technologies** to improve my workflow.  
+I also believe in sharpening the saw daily, so you'll find me tackling algorithmic challenges on LeetCode and exploring data science problems on Kaggle. Each problem teaches me something new about thinking efficiently.
 
----
+## Technologies I work with
 
-## Connect
+I approach technology pragmatically—choosing the right tool for each job rather than defaulting to what's comfortable.
 
-<div align="center">
-  <a href="mailto:damiosi5banjo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://discord.gg/garpfisher" style="margin-left:15px;"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-  <a href="https://dev.to/devdami" style="margin-left:15px;"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
-  <a href="https://linkedin.com/in/damilare-osibanjo" style="margin-left:15px;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://kaggle.com/damilareosibanjo" style="margin-left:15px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" /></a>
-  <a href="https://instagram.com/nulleddami" style="margin-left:15px;"><img src="https://www.svgrepo.com/show/494174/instagram.svg" height="40" style="border-radius:30%;" /></a>
-  <a href="https://www.leetcode.com/dev-dami" style="margin-left:15px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" /></a>
-</div>
+**Systems & Performance:** C, Rust, Go  
+**Application Development:** Python, JavaScript, TypeScript  
+**Web Technologies:** React, HTML, CSS  
+**Backend Frameworks:** Node.js, Express, FastAPI, Elysia  
+**Data Layer:** PostgreSQL, MongoDB, SQLite, Firebase  
+**Development Tools:** Neovim, VSCode, Git, Postman
 
----
+## Beyond the code
 
-## Tech Stack
+When I step away from the keyboard, I'm usually gaming or tinkering with game engines to understand how they achieve such complex real-time performance. I write technical articles on Dev.to because explaining concepts to others deepens my own understanding. I'm also increasingly curious about operating system design and the internals that make everything we do on computers possible.
 
-**Languages:**  
-<img src="https://skillicons.dev/icons?i=c,go,rust,python,javascript,typescript" />
+The programming community has given me so much knowledge freely, so I try to give back by participating in hackathons and helping others in online communities.
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+## Let's connect
 
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,elysia" />
+I'm always interested in connecting with other developers, especially those working on systems programming, backend architecture, or anyone who loves solving hard technical problems.
 
-**Tools:**  
-<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
-
-**Databases / Cloud:**  
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb,postgresql" />
-
----
-
-## Hobbies & Interests
-
-- 🎮 Gaming and exploring game engines.  
-- 📊 Data analysis and participating in Kaggle competitions.  
-- 🖋 Writing tech blogs on Dev.to to share knowledge.  
-- 🌱 Learning about **low-level programming, OS design, and system internals**.  
-- 🤝 Engaging in online programming communities and hackathons.
-
----
-
-## GitHub Stats
+**Email:** damiosi5banjo@gmail.com  
+**LinkedIn:** [damilare-osibanjo](https://linkedin.com/in/damilare-osibanjo)  
+**Dev.to:** [@devdami](https://dev.to/devdami)  
+**LeetCode:** [dev-dami](https://www.leetcode.com/dev-dami)  
+**Discord:** [garpfisher](https://discord.gg/garpfisher)
 
 <div align="center">
   <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=dev-dami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" />
