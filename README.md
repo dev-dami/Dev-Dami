@@ -1,77 +1,25 @@
-# Damilare Osibanjo
+<div align="center">
 
-> 17-year-old systems-focused backend engineer from Nigeria.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=24292f&center=true&vCenter=true&width=500&lines=Damilare+Osibanjo" alt="Typing SVG" />
 
-I build **high-performance backend systems**, explore **system-level programming**, and enjoy understanding software **from the OS up**. My interests sit at the intersection of **performance, reliability, and clean architecture**.
+<p style="color: #57606a; font-family: monospace;">systems • backend • performance</p>
 
----
+<br/>
 
-## Focus Areas
+<img src="https://skillicons.dev/icons?i=rust,go,c,ts,nodejs,python,postgres,mongodb,linux,git&theme=light" />
 
-* System-level programming and concurrency
-* Backend APIs and distributed services
-* Performance, memory, and low-level abstractions
-* Algorithms and problem solving
+<br/><br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dami&repo=carv&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=57606a&border_color=d0d7de&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dami&repo=zario&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=57606a&border_color=d0d7de&hide_border=false" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dami&repo=Karion-OS&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=57606a&border_color=d0d7de&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-dami&repo=Qirrel&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=57606a&border_color=d0d7de&hide_border=false" />
 
-## Tech Stack
+<br/><br/>
 
-### Systems & Performance
+<img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=dev-dami&layout=compact&theme=light" />
+<br/>
+<img src="https://git-streak.0xarchit.is-a.dev/?user=dev-dami&theme=light" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,rust,go" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,ts,express,fastapi" />
-</p>
-
-### Web & Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase" />
-</p>
-
-### Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,git,postman" />
-</p>
-
----
-
-## Currently
-
-* Deepening expertise in **Rust** and **Go**
-* Building scalable backend services with **FastAPI**, **Node.js**, and **Elysia**
-* Practicing algorithms on **LeetCode**
-* Exploring data problems on **Kaggle**
-
----
-
-## Connect
-
-* **Email:** [damiosi5banjo@gmail.com](mailto:damiosi5banjo@gmail.com)
-* **LinkedIn:** [https://linkedin.com/in/damilare-osibanjo](https://linkedin.com/in/damilare-osibanjo)
-* **Dev.to:** [https://dev.to/devdami](https://dev.to/devdami)
-* **LeetCode:** [https://leetcode.com/dev-dami](https://leetcode.com/dev-dami)
-* **Discord:** garpfisher
-
----
-
-<p align="center">
-  <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=dev-dami&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://git-streak.0xarchit.is-a.dev/?user=dev-dami&theme=dark" />
-</p>
+</div>
