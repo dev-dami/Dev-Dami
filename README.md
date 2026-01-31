@@ -5,7 +5,7 @@
     <td align="center" valign="middle">
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=e5e5e5&center=true&vCenter=true&width=450&lines=Damilare+Osibanjo" alt="Typing SVG" />
       <br/>
-      <samp>systems • backend • performance</samp>
+      <samp>with systems • backend • and performance</samp>
       <br/><br/>
       <i>"Simplicity is the ultimate sophistication."</i>
     </td>
