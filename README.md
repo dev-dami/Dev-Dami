@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=damilare%20osibanjo&fontColor=c0c0c0&fontSize=28&fontAlignY=65&desc=compilers%20·%20kernels%20·%20backend&descAlignY=85&descSize=13&animation=fadeIn&fontFamily=JetBrains%20Mono" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=damilare%20osibanjo&fontColor=c0c0c0&fontSize=28&fontAlignY=65&desc=compilers%20·%20kernels%20·%20backend&descAlignY=85&descSize=13&animation=fadeIn&fontFamily=JetBrains%20Mono" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=damilare+osibanjo;compilers+·+kernels+·+backend" alt="header" />
 
 <br/>
 
@@ -17,15 +14,20 @@
   </line>
 </svg>
 
-<br/>
+</div>
 
-|project                                             |what                                                     |
-|:---------------------------------------------------|:--------------------------------------------------------|
-|[`carv`](https://github.com/dev-dami/carv)          |compiler → ARM Cortex-M · type inference · C codegen     |
-|[`karion_os`](https://github.com/dev-dami/karion_os)|x86 kernel in Rust · paging · context-switch · shell     |
-|[`ignite`](https://github.com/dev-dami/ignite)      |sandboxed JS/TS · docker isolation · 13 releases         |
-|[`zario`](https://npmjs.com/package/zario)          |zero-dep logger · 1k+ users · async I/O · circuit breaker|
-|`YEMS` *(private)*                                  |offline-first school management system                   |
+i write compilers, kernels, and backend systems that ship and run.
+not a tutorial-follower — everything here is either deployed or benchmarked.
+
+|project                                             |what                                                                              |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------|
+|[`carv`](https://github.com/dev-dami/carv)          |statically-typed lang → ARM Cortex-M · lexer · parser · type inference · C codegen|
+|[`karion_os`](https://github.com/dev-dami/karion_os)|x86 bare-metal kernel in Rust · paging · context-switch · shell · filesystem      |
+|[`ignite`](https://github.com/dev-dami/ignite)      |sandboxed JS/TS execution · docker isolation · threat model · 13 releases         |
+|[`zario`](https://npmjs.com/package/zario)          |zero-dep logger · 1k+ real users · async I/O · circuit breaker                    |
+|`YEMS` *(private)*                                  |offline-first school management system                                            |
+
+<div align="center">
 
 <br/>
 
@@ -42,9 +44,12 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=70&section=footer&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=70&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/>
 
 <samp>lagos · <a href="https://devdami.vercel.app">blog</a> · 17 · self-taught</samp>
 
