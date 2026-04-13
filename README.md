@@ -37,20 +37,6 @@ not a tutorial-follower — everything here is either deployed or benchmarked.
   </line>
 </svg>
 
-<br/>
-
-<img src="https://git-streak.0xarchit.is-a.dev/?user=dev-dami&theme=dark&border_radius=20" height="160" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/dev-dami/dev-dami/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
 <samp>lagos · <a href="https://devdami.vercel.app">blog</a> · 17 · self-taught</samp>
 
 </div>
