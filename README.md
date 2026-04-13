@@ -1,31 +1,29 @@
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,go,c,ts,python,lua,postgres,mongodb,redis,docker,kubernetes,linux,git,githubactions,cloudflare,nextjs,react,bun&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=rust,go,c,ts,python,linux,docker,kubernetes,git,cloudflare,pytorch,tensorflow&theme=dark&perline=6" />
 </div>
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
 <tr>
+<td width="36%" valign="top">
 
-<td width="35%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=99999&color=C0C0C0&center=false&vCenter=true&width=280&lines=damilare+osibanjo" alt="name" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=999999&color=C0C0C0&center=false&vCenter=true&width=300&lines=damilare+osibanjo" alt="name" />
+<br/>
 
-<sub><samp>systems · runtimes · infrastructure</samp></sub>
-
-<br/><br/>
-
-<samp>I build systems software and infrastructure tooling — kernels, runtimes, compilers, and the low-level layers that everything else runs on.</samp>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2000&pause=99999&color=666666&center=false&vCenter=true&width=280&lines=systems+·+runtimes+·+infrastructure" alt="subtitle" />
 
 <br/><br/>
 
-<samp>
-📍 lagos, nigeria<br/>
-🌐 <a href="https://devdami.vercel.app">devdami.vercel.app</a><br/>
-✉️ <a href="mailto:damiosi5banjo@gmail.com">damiosi5banjo@gmail.com</a><br/>
-🔗 <a href="https://linkedin.com/in/damilareosibanjo">linkedin</a><br/>
-📦 <a href="https://npmjs.com/~dev-dami">npm</a>
-</samp>
+<samp>I build systems software and infrastructure tooling — kernels, runtimes, compilers, and the low-level layers everything else runs on.</samp>
+
+<br/><br/>
+
+[![site](https://img.shields.io/badge/devdami.vercel.app-c0c0c0?style=flat-square&logo=vercel&logoColor=black)](https://devdami.vercel.app)
+[![email](https://img.shields.io/badge/email-c0c0c0?style=flat-square&logo=gmail&logoColor=black)](mailto:damiosi5banjo@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-c0c0c0?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/damilareosibanjo)
+[![npm](https://img.shields.io/badge/npm-c0c0c0?style=flat-square&logo=npm&logoColor=black)](https://npmjs.com/~dev-dami)
 
 <br/><br/>
 
@@ -33,12 +31,12 @@
 
 </td>
 
-<td width="3%"></td>
+<td width="4%"></td>
 
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-<svg width="500" height="6" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="3" x2="500" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
+<svg width="480" height="6" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="3" x2="480" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
     <animate attributeName="stroke-dashoffset" from="0" to="20" dur="2s" repeatCount="indefinite"/>
   </line>
 </svg>
@@ -54,8 +52,8 @@
 |[`gim`](https://github.com/dev-dami/gim)                                                  |Rust system diagnostics CLI · CPU · memory · disk · network                  |
 |`YEMS` *(private)*                                                                        |offline-first school management system                                       |
 
-<svg width="500" height="6" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="3" x2="500" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
+<svg width="480" height="6" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="3" x2="480" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
     <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite"/>
   </line>
 </svg>
