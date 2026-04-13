@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2000&pause=99999&color=666666&center=false&vCenter=true&width=280&lines=systems+·+runtimes+·+infrastructure" alt="subtitle" />
+<sub><samp>systems · runtimes · infrastructure</samp></sub>
 
 <br/><br/>
 
@@ -35,12 +35,6 @@
 
 <td width="60%" valign="top">
 
-<svg width="480" height="6" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="3" x2="480" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
-    <animate attributeName="stroke-dashoffset" from="0" to="20" dur="2s" repeatCount="indefinite"/>
-  </line>
-</svg>
-
 |project                                                                                   |what                                                                         |
 |:-----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|
 |[`carv`](https://github.com/dev-dami/carv)                                                |statically-typed lang → ARM Cortex-M · ownership · type inference · C codegen|
@@ -51,12 +45,6 @@
 |[`Qirrel`](https://github.com/dev-dami/Qirrel)                                            |TypeScript NLP pipeline · LRU+TTL cache · MCP server bridge                  |
 |[`gim`](https://github.com/dev-dami/gim)                                                  |Rust system diagnostics CLI · CPU · memory · disk · network                  |
 |`YEMS` *(private)*                                                                        |offline-first school management system                                       |
-
-<svg width="480" height="6" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="3" x2="480" y2="3" stroke="#2a2a2a" stroke-width="1" stroke-dasharray="6 4">
-    <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite"/>
-  </line>
-</svg>
 
 <br/>
 
