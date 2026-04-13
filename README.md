@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=rust,go,c,ts,postgres,redis,docker,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=rust,go,c,ts,python,lua,postgres,mongodb,redis,docker,kubernetes,linux,git,githubactions,cloudflare,nextjs,react,bun&theme=dark&perline=9" />
 
 <br/><br/>
 
@@ -16,16 +16,15 @@
 
 </div>
 
-i write compilers, kernels, and backend systems that ship and run.
-not a tutorial-follower — everything here is either deployed or benchmarked.
-
-|project                                             |what                                                                              |
-|:---------------------------------------------------|:---------------------------------------------------------------------------------|
-|[`carv`](https://github.com/dev-dami/carv)          |statically-typed lang → ARM Cortex-M · lexer · parser · type inference · C codegen|
-|[`karion_os`](https://github.com/dev-dami/karion_os)|x86 bare-metal kernel in Rust · paging · context-switch · shell · filesystem      |
-|[`ignite`](https://github.com/dev-dami/ignite)      |sandboxed JS/TS execution · docker isolation · threat model · 13 releases         |
-|[`zario`](https://npmjs.com/package/zario)          |zero-dep logger · 1k+ real users · async I/O · circuit breaker                    |
-|`YEMS` *(private)*                                  |offline-first school management system                                            |
+|project                                                                                |what                                                                                      |
+|:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+|[`carv`](https://github.com/dev-dami/carv)                                             |statically-typed lang targeting ARM Cortex-M · lexer · parser · type inference · C codegen|
+|[`karion_os`](https://github.com/dev-dami/karion_os)                                   |x86 bare-metal kernel in Rust · paging · context-switch · shell · filesystem              |
+|[`ignite`](https://github.com/dev-dami/ignite)                                         |sandboxed JS/TS execution · docker isolation · threat model · 13 releases                 |
+|[`zario`](https://github.com/dev-dami/zario) · [`npm`](https://npmjs.com/package/zario)|zero-dep logger · 1k+ real users · async I/O · circuit breaker                            |
+|[`Qirrel`](https://github.com/dev-dami/Qirrel)                                         |TypeScript NLP pipeline · LRU+TTL cache · MCP server bridge                               |
+|[`gim`](https://github.com/dev-dami/gim)                                               |Rust system diagnostics CLI · CPU · memory · disk · network                               |
+|`YEMS` *(private)*                                                                     |offline-first school management system                                                    |
 
 <div align="center">
 
