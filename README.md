@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,go,c,ts,python,linux,docker,kubernetes,git,cloudflare,pytorch,tensorflow&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=rust,go,c,ts,python,linux,docker,kubernetes,git,cloudflare,pytorch,zig,tensorflow&theme=dark&perline=6" />
 </div>
 
 <br/>
