@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=header&text=damilare%20osibanjo&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=17%20·%20kernels%20·%20compilers%20·%20runtimes%20·%20infrastructure&descSize=13&descAlignY=85&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
-
 <br/>
 
 [![site](https://img.shields.io/badge/devdami.varityweb.com-10b981?style=flat-square&logoColor=000)](https://devdami.varityweb.com)
