@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-[![site](https://img.shields.io/badge/devdami.vercel.app-c0c0c0?style=flat-square&logo=vercel&logoColor=black)](https://devdami.varityweb.com/)
+[![site](https://img.shields.io/badge/devdami.varityweb.com-c0c0c0?style=flat-square&logo=vercel&logoColor=black)](https://devdami.varityweb.com/)
 [![email](https://img.shields.io/badge/email-c0c0c0?style=flat-square&logo=gmail&logoColor=black)](mailto:damiosi5banjo@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-c0c0c0?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/damilareosibanjo)
 [![npm](https://img.shields.io/badge/npm-c0c0c0?style=flat-square&logo=npm&logoColor=black)](https://npmjs.com/~dev-dami)
