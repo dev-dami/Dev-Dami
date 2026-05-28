@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=99999&pause=99999&color=10b981&center=true&vCenter=true&width=600&lines=damilare+osibanjo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1200&pause=99999&color=10b981&center=true&vCenter=true&width=600&lines=damilare+osibanjo" />
 
 <sub><code>17 · kernels · compilers · runtimes · infrastructure</code></sub>
 
@@ -13,8 +13,9 @@
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=dev-dami&show_icons=true&theme=dark&hide_border=true&title_color=10b981&icon_color=10b981&text_color=9ca3af&bg_color=0d1117&hide=prs&custom_title=stats&rank_icon=github"/>
-<img height="150" src="https://git-streak.0xarchit.is-a.dev/?user=dev-dami&theme=dark&border_radius=8&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=6b7280&dates=6b7280&background=0d1117&stroke=161b22&border=161b22"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-dami&show_icons=true&theme=dark&hide_border=true&border_radius=16&title_color=10b981&icon_color=10b981&text_color=9ca3af&bg_color=0d1117&hide=prs&custom_title=stats&rank_icon=github"/>
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=dev-dami&theme=dark&hide_border=true&border_radius=16&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=6b7280&dates=6b7280&background=0d1117"/>
 
 </div>
 
