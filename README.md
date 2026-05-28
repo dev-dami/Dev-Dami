@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1200&pause=99999&color=10b981&center=true&vCenter=true&width=600&lines=damilare+osibanjo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=header&text=damilare%20osibanjo&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=17%20·%20kernels%20·%20compilers%20·%20runtimes%20·%20infrastructure&descSize=13&descAlignY=85&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
 
-<sub><code>17 · kernels · compilers · runtimes · infrastructure</code></sub>
-
-<br/><br/>
+<br/>
 
 [![site](https://img.shields.io/badge/devdami.varityweb.com-10b981?style=flat-square&logoColor=000)](https://devdami.varityweb.com)
 [![email](https://img.shields.io/badge/email-10b981?style=flat-square&logo=gmail&logoColor=000)](mailto:dami@varityweb.com)
@@ -13,9 +11,7 @@
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-dami&show_icons=true&theme=dark&hide_border=true&border_radius=16&title_color=10b981&icon_color=10b981&text_color=9ca3af&bg_color=0d1117&hide=prs&custom_title=stats&rank_icon=github"/>
-&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=dev-dami&theme=dark&hide_border=true&border_radius=16&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=6b7280&dates=6b7280&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=dev-dami&theme=dark&hide_border=true&border_radius=16&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=6b7280&dates=6b7280&background=0d1117" width="420"/>
 
 </div>
 
